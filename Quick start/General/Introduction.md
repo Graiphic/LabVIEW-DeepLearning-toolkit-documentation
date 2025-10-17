@@ -1,6 +1,8 @@
 # 🧠 Introduction
 
-![Deep Learning Toolkit](deeplearning.svg)
+<p align="center">
+  <img src="deeplearning.svg" alt="Deep Learning Toolkit" width="150"/>
+</p>
 
 Welcome to the **Deep Learning Toolkit** documentation base.
 
