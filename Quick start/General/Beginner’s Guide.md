@@ -47,7 +47,7 @@ This section explains how to run a model in LabVIEW.
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Execute model guide](https://img.youtube.com/vi/kK6CvvA3tj4/0.jpg)](https://youtu.be/kK6CvvA3tj4) | Copy this snippet onto your block diagram to run your model.<br><br><img src="run-a-model.png" alt="Run a Model" width="600"/> |
+| [![Get Started - Execute model guide](https://img.youtube.com/vi/kK6CvvA3tj4/0.jpg)](https://youtu.be/kK6CvvA3tj4) | Copy this snippet onto your block diagram to run your model.<br><br><img src="ru-a-model.png" alt="Run a Model" width="600"/> |
 
 ---
 
