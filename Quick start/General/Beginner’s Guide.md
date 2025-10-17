@@ -21,6 +21,16 @@ Let’s start by designing a simple model.
 
 ---
 
+## 🧾 How to summarize a model?
+
+This section provides a quick guide showing how to summarize a model within the LabVIEW Deep Learning Toolkit.
+
+| Video | Code used for this video |
+|:--:|:--:|
+| [![Get Started - Model summary guide](https://img.youtube.com/vi/SLmNEM7q1QA/0.jpg)](https://youtu.be/SLmNEM7q1QA) | You can drop this snippet onto the block diagram and get the depicted code added to your VI.<br><br><img src="ru-a-model.png" alt="Model Summary Example" width="600"/> |
+
+---
+
 ## 📊 How to review and edit the parameters of a model?
 
 This section explains how to get and edit parameters from a model.
@@ -65,4 +75,25 @@ This section explains how to **load and save models** in the compatible ONNX for
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an
+| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an ONNX file.<br><br><img src="load-model.png" alt="Load Model Example" width="600"/><br><br><img src="load-model-2.png" alt="Load Model Example 2" width="600"/> |
+
+---
+
+## 🔄 How to import a Keras / TensorFlow model?
+
+| Video | Description |
+|:--:|:--:|
+| [![Get Started - Import a model](https://img.youtube.com/vi/BbGlCevLY_U/0.jpg)](https://youtu.be/BbGlCevLY_U) | Learn how to import **Keras** or **TensorFlow** models into the LabVIEW Deep Learning Toolkit. |
+
+---
+
+## 🧠 How to fit a model? *(next release)*
+
+This section explains how to fit a model.  
+**Fit** is the simplest way to train a model (fully automated) but with more limited control and customization options.  
+
+---
+
+**Tags:** LabVIEW · Deep Learning · Model Design · Training · Inference  
+
+© 2025 Graiphic — Licensed under CC BY 4.0
