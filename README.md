@@ -1,2 +1,2 @@
 # documentation
-Unified documentation hub for Graiphic’s SOTA ecosystem — including Deep Learning Toolkit, GO HW, GO GenAI, and all graph-based AI runtimes built on ONNX and LabVIEW integration.
+Unified documentation hub for Graiphic’s SOTA ecosystem — including LabVIEW Deep Learning Toolkit, LabVIEW Accelerator Toolkit, LabVIEW GenAI Toolkit, LabVIEW Computer Vision Toolkit
