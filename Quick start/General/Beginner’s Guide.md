@@ -75,7 +75,7 @@ This section explains how to **load and save models** in the compatible ONNX for
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an ONNX file.<br><br><img src="load-model-2.png" alt="Load Model Example 2" width="600"/> |
+| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an ONNX file.<br><br><img src="load-model 2.png" alt="Load Model Example 2" width="600"/> |
 
 ---
 
