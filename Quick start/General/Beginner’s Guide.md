@@ -17,7 +17,7 @@ Let’s start by designing a simple model.
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Model design guide](https://img.youtube.com/vi/MPQLW_9fEj8/0.jpg)](https://youtu.be/MPQLW_9fEj8) | You can drop this snippet onto the block diagram and get the depicted code added to your VI (don’t forget to install the Deep Learning library before).<br><br><img src="summarize-1.png" alt="Model Design Example" width="600"/> |
+| [![Get Started - Model design guide](https://img.youtube.com/vi/MPQLW_9fEj8/0.jpg)](https://youtu.be/MPQLW_9fEj8) | You can drop this snippet onto the block diagram and get the depicted code added to your VI (don’t forget to install the Deep Learning library before).<br><br><img src="img/summarize-1.png" alt="Model Design Example" width="600"/> |
 
 ---
 
@@ -27,7 +27,7 @@ This section provides a quick guide showing how to summarize a model within the 
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Model summary guide](https://img.youtube.com/vi/SLmNEM7q1QA/0.jpg)](https://youtu.be/SLmNEM7q1QA) | You can drop this snippet onto the block diagram and get the depicted code added to your VI.<br><br><img src="ru-a-model.png" alt="Model Summary Example" width="600"/> |
+| [![Get Started - Model summary guide](https://img.youtube.com/vi/SLmNEM7q1QA/0.jpg)](https://youtu.be/SLmNEM7q1QA) | You can drop this snippet onto the block diagram and get the depicted code added to your VI.<br><br><img src="img/ru-a-model.png" alt="Model Summary Example" width="600"/> |
 
 ---
 
@@ -37,7 +37,7 @@ This section explains how to get and edit parameters from a model.
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Get model parameters guide](https://img.youtube.com/vi/SLmNEM7q1QA/0.jpg)](https://youtu.be/SLmNEM7q1QA) | You can drop this snippet onto the block diagram and get the depicted code added to your VI.<br><br><img src="get-model.png" alt="Get Model Parameters" width="600"/> |
+| [![Get Started - Get model parameters guide](https://img.youtube.com/vi/SLmNEM7q1QA/0.jpg)](https://youtu.be/SLmNEM7q1QA) | You can drop this snippet onto the block diagram and get the depicted code added to your VI.<br><br><img src="img/get-model.png" alt="Get Model Parameters" width="600"/> |
 
 ---
 
@@ -47,7 +47,7 @@ This section explains how to set or edit parameters of a model.
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Set model parameters guide](https://img.youtube.com/vi/vCkQzuR5QbM/0.jpg)](https://youtu.be/vCkQzuR5QbM) | Drop this snippet onto the block diagram to reproduce the code.<br><br><img src="set-model.png" alt="Set Model Parameters" width="600"/> |
+| [![Get Started - Set model parameters guide](https://img.youtube.com/vi/vCkQzuR5QbM/0.jpg)](https://youtu.be/vCkQzuR5QbM) | Drop this snippet onto the block diagram to reproduce the code.<br><br><img src="img/set-model.png" alt="Set Model Parameters" width="600"/> |
 
 ---
 
@@ -57,7 +57,7 @@ This section explains how to run a model in LabVIEW.
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Execute model guide](https://img.youtube.com/vi/kK6CvvA3tj4/0.jpg)](https://youtu.be/kK6CvvA3tj4) | Copy this snippet onto your block diagram to run your model.<br><br><img src="ru-a-model.png" alt="Run a Model" width="600"/> |
+| [![Get Started - Execute model guide](https://img.youtube.com/vi/kK6CvvA3tj4/0.jpg)](https://youtu.be/kK6CvvA3tj4) | Copy this snippet onto your block diagram to run your model.<br><br><img src="img/ru-a-model.png" alt="Run a Model" width="600"/> |
 
 ---
 
@@ -69,13 +69,13 @@ This section explains how to **load and save models** in the compatible ONNX for
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Save model guide](https://img.youtube.com/vi/YUIMjw3383M/0.jpg)](https://youtu.be/YUIMjw3383M) | Drop this snippet to save your trained model.<br><br><img src="save-model.png" alt="Save Model Example" width="600"/> |
+| [![Get Started - Save model guide](https://img.youtube.com/vi/YUIMjw3383M/0.jpg)](https://youtu.be/YUIMjw3383M) | Drop this snippet to save your trained model.<br><br><img src="img/save-model.png" alt="Save Model Example" width="600"/> |
 
 ### How to load a model?
 
 | Video | Code used for this video |
 |:--:|:--:|
-| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an ONNX file.<br><br><img src="load-model 2.png" alt="Load Model Example 2" width="600"/> |
+| [![Get Started - Load model guide](https://img.youtube.com/vi/5cObCynFw0w/0.jpg)](https://youtu.be/5cObCynFw0w) | Drop this snippet to load an ONNX file.<br><br><img src="img/load-model 2.png" alt="Load Model Example 2" width="600"/> |
 
 ---
 
