@@ -7,7 +7,7 @@ This section explains how to install and configure **CUDA** for the **LabVIEW De
 ## 💻 System Requirements
 
 The **LabVIEW Deep Learning Toolkit** currently runs on **CUDA 12.9**.  
-To verify if your GPU is compatible with this version, please consult the [official compatibility list](https://gist.github.com/standaloneSA/99788f30466516dbcc00338b36ad5acf).
+To verify if your GPU is compatible with this version, please consult the [official compatibility list](https://developer.nvidia.com/cuda-gpus).
 
 ---
 
