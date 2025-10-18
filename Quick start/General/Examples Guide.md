@@ -65,4 +65,4 @@ This will redirect you to the latest online resource hub containing:
 
 **Tags:** LabVIEW · Deep Learning Toolkit · Examples · Documentation · Graiphic  
 
-© 2025 Graiphic — All rights reserved.
+© 2025 Graiphic — Licensed under CC BY 4.0
