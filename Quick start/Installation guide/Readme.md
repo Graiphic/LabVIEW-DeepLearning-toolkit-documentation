@@ -1,7 +1,7 @@
 # 🧩 Installation Guide
 
 <p align="center">
-  <img src="Execution Providers/img/deeplearning.svg" alt="Deep Learning Toolkit Icon" width="120"/>
+  <img src="img/deeplearning.svg" alt="Deep Learning Toolkit Icon" width="120"/>
 </p>
 
 Welcome to the **installation section** of the **LabVIEW Deep Learning Toolkit**.  
@@ -43,3 +43,4 @@ To get started, simply follow the step-by-step procedures available in each sect
 ---
 
 **© 2025 Graiphic — All rights reserved.**
+
