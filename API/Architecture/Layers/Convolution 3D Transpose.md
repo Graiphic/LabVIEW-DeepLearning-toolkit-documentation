@@ -56,7 +56,7 @@ All these examples are snippets PNG, you can drop these Snippet onto the block d
 ### Convolution 3D Transpose layer
 
 <p align="center">
-  <img src="./Convolution/1-conv3dtranspose-batch-and-dimension.png" alt="Conv3D Transpose Example 1"/>
+  <img src="./Convolution/1-conv3dtranspose-layer.png" alt="Conv3D Transpose Example 1"/>
 </p>
 
 1 – Generate a set of data  
