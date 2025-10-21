@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./img/labview_dl_logo.svg" alt="LabVIEW Deep Learning Toolkit" width="240"/>
+  <img src="./img/logo.svg" alt="LabVIEW Deep Learning Toolkit" width="240"/>
 </p>
 
 # 🧠 LabVIEW Deep Learning Toolkit
 
-**LabVIEW Deep Learning Toolkit** brings the full power of modern AI workflows directly into the **LabVIEW environment**, enabling engineers and researchers to **design, train, validate and deploy neural networks** using **native LabVIEW VIs** and the **ONNX standard**.
+**LabVIEW Deep Learning Toolkit** brings the full power of modern AI workflows directly into the **LabVIEW environment**, enabling engineers and researchers to **design, train, validate, and deploy neural networks** using **native LabVIEW VIs** and the **ONNX standard**.
 
 ---
 
