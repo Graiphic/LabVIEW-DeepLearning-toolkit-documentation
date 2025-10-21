@@ -79,7 +79,7 @@ This method returns two variables:
 ### Cropping2D layer, batch and dimension
 
 <p align="center">
-  <img src="./Cropping/2-cropping2d-batch-and-dimension.png" alt="Cropping2D Batch Example"/>
+  <img src="./Cropping/2-cropping2d-batch-and-dimension-1.png" alt="Cropping2D Batch Example"/>
 </p>
 
 1 – Generate a set of data  
