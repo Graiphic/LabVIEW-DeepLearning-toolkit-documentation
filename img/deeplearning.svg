@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Calque_2" data-name="Calque 2" viewBox="0 0 243.85 243.85">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: FranklinGothic-Medium, 'Franklin Gothic Medium';
+        font-size: 72px;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #4a90e2;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <path class="cls-3" d="m243.85,243.85H0V0h159.87c46.38,0,83.98,37.6,83.98,83.98v159.87Z"></path>
+    <text class="cls-1" transform="translate(80.4 219.86)">
+      <tspan x="0" y="0">DL</tspan>
+    </text>
+    <g>
+      <circle class="cls-2" cx="75.26" cy="100.43" r="16.64"></circle>
+      <circle class="cls-2" cx="75.26" cy="100.43" r="16.64"></circle>
+      <circle class="cls-2" cx="110.15" cy="60.99" r="16.64"></circle>
+      <circle class="cls-2" cx="168.59" cy="113.47" r="16.64"></circle>
+      <rect class="cls-2" x="90.6" y="50.54" width="6.51" height="55.75" transform="translate(69.44 -41.42) rotate(38.6)"></rect>
+      <rect class="cls-2" x="134.97" y="59.08" width="6.51" height="55.75" transform="translate(292.42 33.19) rotate(128.6)"></rect>
+    </g>
+  </g>
+</svg>
