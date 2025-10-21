@@ -15,20 +15,9 @@ Type : *polymorphic.*
 
 ## Input parameters
 
-**![OBJ](./Type/input_object.png) Models in :** *array*, model architecture.  
-**![FCT](./Type/cluster.png) Parameters :** layer parameters.
-
-**![TF](./Type/booleen.png) training? :** *boolean*, whether the layer is in training mode (can store data for backward).  
-Default value “True”.
-
-**![DBL](./Type/double.png) lda coeff :** *float*, defines the coefficient by which the loss derivative will be multiplied before being sent to the previous layer (since during the backward run we go backwards).  
-Default value “1”.
-
-**![ABC](./Type/string.png) name (optional) :** *string*, name of the layer.
-
-<p align="right">
-  <img src="./_params/layer_param.png" alt="Parameters" width="180"/>
-</p>
+| **Parameters** | **Interface** |
+|----------------|----------------|
+| **![OBJ](./Type/input_object.png) Models in :** *array*, model architecture. <br> **![FCT](./Type/cluster.png) Parameters :** layer parameters. <br><br> **![TF](./Type/booleen.png) training? :** *boolean*, whether the layer is in training mode (can store data for backward).<br>Default value “True”. <br><br> **![DBL](./Type/double.png) lda coeff :** *float*, defines the coefficient by which the loss derivative will be multiplied before being sent to the previous layer (since during the backward run we go backwards).<br>Default value “1”. <br><br> **![ABC](./Type/string.png) name (optional) :** *string*, name of the layer. | <img src="./_params/layer_param.png" alt="Layer Parameters" width="200"/> |
 
 ---
 
@@ -41,7 +30,7 @@ Default value “1”.
 ## Dimension
 
 ### Input shape
-All layer used for add must have same output shape.  
+All layers used for add must have same output shape.  
 Refer Layer tensor output shape used.
 
 ### Output shape
@@ -108,3 +97,9 @@ Returns the summary of the model in file text.
 
 We call the forward method and retrieve the result with the “Prediction 2D” method.  
 This method returns two variables, the first one is the layer information (cluster composed of the layer name, the graph index and the shape of the output layer) and the second one is the prediction with a shape of [batch_size, units] (Dense output shape).
+
+---
+
+<p align="center">
+  <a href="../Layers.md" style="text-decoration:none; font-weight:bold;">⬅️ Back to Layers</a>
+</p>
