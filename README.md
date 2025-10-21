@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/deeplearning.svg" alt="LabVIEW Deep Learning Toolkit" width="240"/>
+  <img src="./img/deeplearning.svg" alt="LabVIEW Deep Learning Toolkit" width="150"/>
 </p>
 
 # 🧠 LabVIEW Deep Learning Toolkit
