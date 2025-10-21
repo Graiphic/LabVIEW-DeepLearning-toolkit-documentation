@@ -42,7 +42,6 @@ List of the following tensors:
 Attention outputs of shape [batch_size, Tq, dim].
 
 ---
-
 ## Example
 
 All these examples are snippets PNG, you can drop these Snippet onto the block diagram and get the depicted code added to your VI (Do not forget to install Deep Learning library to run it).
@@ -72,4 +71,38 @@ Returns the summary of the model in file text.
 4 – Run graph  
 
 We call the forward method and retrieve the result with the “Prediction 3D” method.  
-This method returns two variables, the first
+This method returns two variables, the first one is the layer information (cluster composed of the layer name, the graph index and the shape of the output layer) and the second one is the prediction with a shape of [batch_size, Tq, dim].
+
+---
+
+### AdditiveAttention layer with two different input layer shape
+
+<p align="center">
+  <img src="./AdditiveAttention/2-additiveattention-with-two-different-input-layer-shape.png" alt="AdditiveAttention different input shapes"/>
+</p>
+
+1 – Generate a set of data  
+
+We generate two array of data of type single and shape1 [batch_size = 10, Tq = 4, dim = 10] and shape2 [batch_size = 10, Tv = 7, dim = 10] (different input shape).  
+We can only modify the first dimension (Tq or Tv) because the layer won’t accept different dimension between query, value and key.
+
+2 – Define graph  
+
+We first define two input layers named “query_input” and “value_input”.  
+This layers is setup as an input array shaped [Tq = 4, dim = 10] and [Tv = 7, dim = 10].  
+Finally, we construct an array of the two graphs generated at the input of AdditiveAttention.
+
+3 – Summarize graph  
+
+Returns the summary of the model in file text.
+
+4 – Run graph  
+
+We call the forward method and retrieve the result with the “Prediction 3D” method.  
+This method returns two variables, the first one is the layer information (cluster composed of the layer name, the graph index and the shape of the output layer) and the second one is the prediction with a shape of [batch_size, Tq, dim].
+
+---
+
+<p align="center">
+  <a href="../Layers.md" style="text-decoration:none; font-weight:bold;">⬅️ Back to Layers</a>
+</p>
